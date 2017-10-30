@@ -1,0 +1,7 @@
+Player1-emaildelplayer1-France
+Player2-Emailplayer2-Spain
+*+++*
+NuevoJuego1istPlatDic1-Simulation-MAC,Linux,
+JUEGONUMERO2-Desconocido-PC,PS4,Linux,
+*+*+*+*
+NuevoJuego1istPlatDic1-Ranking1-Lis1-Score1Chema=45,Score2Juan=55,Score3Pepe=123,score4=897,JUEGONUMERO2-Tanking--Score1Chema=45,Score2Juan=55,Score3Pepe=123,score4=897,score5=78,score6=6456,Score7=4,score8=3,
